@@ -38,8 +38,8 @@ Step 7:Print Approximate Probabilities:
 
 ## Program :
 ```
-NAME:- Vishal Gowthaman K R
-REG NO:- 212221230123
+NAME:- SV ROHITHKUMAR
+REG NO:- 212221230084
 ```
 ### Import the necessary libraries
 ```py
